@@ -4,6 +4,9 @@
 
 <p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano <strong>(Referencial <em>Oxy</em>)</strong>. Indica se um dado ponto, dado pelo usúario, está inserido numa mediatriz, dada também pelo usúario.</p>
 
+<h2>Versão <strong><em>1.7</em></strong></h2>
+
+
 <h3>Como instalar</h3>
 
 <p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
