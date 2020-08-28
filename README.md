@@ -6,6 +6,23 @@
 
 <h2>Versão <strong><em>1.7</em></strong></h2>
 
+<h3>Compatibilidade</h3>
+
+<ul>
+
+ <li>TI-84 Plus CE</li>
+
+  <li>TI-84 Plus CE-T</li>
+
+   <li>TI-84 Plus CE-T Python Edition</li>
+
+   <li>TI-84 Plus C Silver Edition</li>
+
+   <li>TI-83 Premium CE</li>
+
+   <li>TI-83 Premium CE Edition Python</li>
+
+   </ul>
 
 <h3>Como instalar</h3>
 
