@@ -1,52 +1,42 @@
-<h1>Prgm MEDIATRZ (<strong><em>Mediatriz</em></strong>)</h1>
+# Prgm MEDIATRZ (_Mediatriz_)
 
-<h3>Biografia</h3>
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/MEDIATRZ.8xp/total?label=Downloads)
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano <strong>(Referencial <em>Oxy</em>)</strong>. Indica se um dado ponto, dado pelo usúario, está inserido numa mediatriz, dada também pelo usúario.</p>
+### Biografia
 
-<h2>Versão <strong><em>1.7</em></strong></h2>
+Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano (**Referencial _Oxy_**). Indica se um dado ponto, dado pelo usuário, está inserido numa mediatriz, dada também pelo usuário.
 
-<h3>Compatibilidade</h3>
+## Versão _1.7_
 
-<ul>
+### Compatibilidade
 
- <li>TI-84 Plus CE</li>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
-  <li>TI-84 Plus CE-T</li>
+### Como instalar
 
-   <li>TI-84 Plus CE-T Python Edition</li>
+Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-   <li>TI-84 Plus C Silver Edition</li>
+1. Conecta a tua calculadora e abre o TI Connect CE
+2. Envia o _MEDIATRZ.8xp_
+3. Escolhe a tua calculadora
+4. E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-   <li>TI-83 Premium CE</li>
+E agora já tens o _MEDIATRZ_ na tua calculadora
 
-   <li>TI-83 Premium CE Edition Python</li>
+### Como executar
 
-   </ul>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _MEDIATRZ_
 
-<h3>Como instalar</h3>
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>/</kbd>(tecla de divisão)
+3. Selecionar o _MEDIATRZ_
+4. E por último pressionar <kbd>enter</kbd>
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>MEDIATRZ.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+## Programador: _J.C.P._
 
-<p> E agora já tens o MEDIATRZ na tua calculadora</p>
-
-<h3>Como executar</h3>
-
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>MEDIATRZ</em></p>
-
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>/</kbd>(tecla de divisão)</li>
-     <li>E selecionar o <em>MEDIATRZ</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
-
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
-
-<h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
